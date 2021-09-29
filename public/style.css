@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+#calform {
+    text-align: center;
+}
+
+#display {
+    width: 200px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    background-color: #1f80c9;
+}
+
+button {
+    width: 50px;
+    color: white;
+    background-color: black;
+}
